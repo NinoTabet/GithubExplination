@@ -14,5 +14,6 @@ git pull - will update your local repo to the newest version of the branch that 
 git branch - show all branches and indicates the current one with a *
 git branch <branch name> - creates a new branch with the specified name
 git branch -d <branch name> - deletes specified branch
+git merge <branch name> - merges specified branch into your checked-out branch
 
 git checkout <branch name> - switches to specified branch
