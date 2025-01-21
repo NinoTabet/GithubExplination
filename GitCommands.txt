@@ -17,3 +17,5 @@ git branch -d <branch name> - deletes specified branch
 git merge <branch name> - merges specified branch into your checked-out branch.
 
 git checkout <branch name> - switches to specified branch
+
+git restore --staged
