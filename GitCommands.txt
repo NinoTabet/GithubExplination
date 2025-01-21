@@ -18,4 +18,4 @@ git merge <branch name> - merges specified branch into your checked-out branch.
 
 git checkout <branch name> - switches to specified branch
 
-git restore --staged
+git restore --staged <file name> - removes all or specific file from staging
