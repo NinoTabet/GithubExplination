@@ -8,3 +8,9 @@ git commit -m "commit message" - commits staged changes
 git push - push changes to remote repo
 
 git clone <github link> - clones a remote repo locally
+
+git pull - will update your local repo to the newest version of the branch that you're on
+
+git branch - show all branches and indicates the current one with a *
+
+git branch mety
