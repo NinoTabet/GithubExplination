@@ -1,0 +1,6 @@
+Change content -> add changes to staging -> organize your changes -> push your changes
+
+git add <filename> - place a specific changed file into staging
+git add . - place ALL changed files into staging
+
+git commit -m "commit message"
